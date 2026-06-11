@@ -1,2 +1,2 @@
 # binary-brains
-priject SAFE HER
+project SAFE HER
